@@ -9,3 +9,13 @@ printf("Enter any string:");
 gets(string);
 while(strng[i]!='\0')
 {
+   if(string[i]>='0' && string[i]<='9')
+{
+digit++;
+}
+i++;
+}
+printf("Digits=%d\n",digits);
+return 0;
+}
+
