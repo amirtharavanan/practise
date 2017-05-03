@@ -7,7 +7,7 @@ int digits,i;
 digits=i=0;
 printf("Enter any string:");
 gets(string);
-while(strng[i]!='\0')
+while(string[i]!='\0')
 {
    if(string[i]>='0' && string[i]<='9')
 {
