@@ -1,10 +1,13 @@
-class new12
+class armstrong
 {
 public static void main(String args[])
 {
 int c=0,a,temp;
-int n=153;
-temp=n
+int n;
+  System.out.println("Enter the number:");
+  Scanner in=new Scanner(System.in);
+  n=in.nextInt();
+temp=n;
 while(n>0)
 {
 a=n%10;
