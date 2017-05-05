@@ -4,7 +4,7 @@ public class npr
 public static int fact(int num)
 {
 int fact=1,i;
-for(i=1;i<=um;i++)
+for(i=1;i<=num;i++)
 {
 fact=fact*i;
 }
