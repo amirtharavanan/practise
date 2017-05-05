@@ -11,7 +11,7 @@ scanf("%d",&Arr[i]);
 sum+=Arr[i];
 }
 printf("\nsum of the array is:%d,sum");
-printf("\nAverage of the array is:%0.2f",(float/n);
+printf("\nAverage of the array is:%0.2f",(sum/n);
 return 0;
 }
 
