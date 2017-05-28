@@ -20,7 +20,7 @@ printf("\n the sum is\n");
 for(i=0;i<5;i++)
 {
 sum=a[i]+b[i];
-printf("\n the sum is %d & %d is %d",a[i],b[i],c[i]);
+printf("\n the sum is %d & %d is %d",a[i],b[i],sum[i]);
 }
 getch();
 }
