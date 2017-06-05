@@ -29,4 +29,6 @@ break;
 case"Saturday":
 System.out.println("Workingday(sunday)->True");
 break;
-
+}
+}
+}
