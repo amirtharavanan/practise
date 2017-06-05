@@ -1,5 +1,5 @@
 import java.io.*;
-imor java.util.*;
+import java.util.*;
 public class Working
 {
 public static void main(String args[])
